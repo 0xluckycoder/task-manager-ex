@@ -46,8 +46,15 @@ for mind maps - https://gojs.net/latest/samples/mindMap.html
   - [ ] - federated identity login with cognito user pool SDK
 - [ ] - build a beautiful website for app
 
+https://github.com/piotrwitek/react-redux-typescript-guide#react--redux-in-typescript---complete-guide
+https://redux-toolkit.js.org/introduction/getting-started#installation
+https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/hooks
+
+serverless with typescript - https://github.com/serverless/typescript
+
 - [ ] - Build Todo Page
   - [x] - Setup the filesystem
+    - [ ] - first write js then add types 🌟
   - [ ] - Build the layout
   - [ ] - Read the Frontend Architecture Guide
   - [ ] - Modal
@@ -57,11 +64,14 @@ for mind maps - https://gojs.net/latest/samples/mindMap.html
 
 - [x] - Modal the dataset
 
-- [/] - Learn AWS lambda functions
+- [x] - Learn AWS lambda functions
+- [x] - Learn Serverless Framework
 - [ ] - Learn API Gateway
+- [ ] - Learn to setup typescript project
 - [ ] - Learn TypeScript in Lambda
 - [ ] - come up with good architecture for handle API in serverless
 
+- [ ] - add serverless offline
 
 - [ ] - Experiments for more learning
   - [ ] - Learn to do redux CRUD and api fetching without RTK (Vanilla Redux)
